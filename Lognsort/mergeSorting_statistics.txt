@@ -1,0 +1,20 @@
+Size: 2
+Average Time: 1.5
+Size: 3
+Average Time: 0.666667
+Size: 4
+Average Time: 1.04167
+Size: 5
+Average Time: 1.075
+Size: 6
+Average Time: 2.00556
+Size: 7
+Average Time: 2.04583
+Size: 8
+Average Time: 2.32264
+Size: 9
+Average Time: 3.18633
+Size: 10
+Average Time: 2.70104
+Size: 11
+Average Time: 2.92154
